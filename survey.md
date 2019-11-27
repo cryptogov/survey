@@ -1,16 +1,17 @@
-# Wharton Network Governance Disclosure Questionnaire
+# Blockchain Governance Assessment Questionnaire
+_This document was developed by a group of experts convened by the Wharton Cryptogovernance Workshop. It seeks to provide a common framework for blockchain networks, applications, and consortia.
 
 1. Respondent(s)
-    1. Which network are you providing answers for in this questionnaire? 
-    1. Name of respondent(s)? (Legal names, pseudonyms, usernames, etc. are all valid responses)
-    1. What is your role in the network?
+    1. Your name and contact information (optional)?  
+    1. Which project, network, platform, or consortium are you providing answers for? (The term “project” is used generically in the rest of this document.)  
+    1. What is your role (or the role of your organization) in the project, if any?  
 
-1. Background
-    1. How do you define the purpose, goals, or scope of the network? 
-    1. What do you consider success for the network? Do you have metrics to measure success? If so, what are they?
-    1. What, if any, are the coordinating entities associated with this network, and what are their functions? (E.g. foundation, development corporation, DAO, etc.) 
-    1. Are network participants identified (i.e. keypair associated with accounts or UTXOs, wallet number, government ID, etc.)? If so, how?
-
+1. Project Description
+    1. What are the purposes, goals, or scope of the project? 
+    1. What do you consider success for the project? Do you have metrics to measure success? If so, what are they?
+    1. What, if any, are the coordinating entities, and what are their functions? (For example, a foundation, consortium, software development corporation, DAO, etc.) 
+    1. How are participants and users of the project identified? (For example, by public/private cryptographic keypair, wallet number, government ID, etc.) Are there restrictions on who can participate? If so, how are they implemented?
+    
 1. Stakeholder Groups
     1. Are there currently groups without whom the project collapses? (e.g. the group of core developers pre-launch; the group of funders) - if so, describe them. 
     1. Does the network’s dry code (coded/machine-executable) recognize or delineate different groups? If so, how and who?
@@ -30,11 +31,11 @@
     1. What are the costs of exiting the network? (eg. loss of data, time, money, status, connectivity)
     1. What are the costs of exiting a particular intrinsic group? (eg. loss of data, time, money, status, connectivity)
 
-1. Incentive Schemes
-    1. What behaviours does the network seek to incentivize? 
+1. Goals and Implementation
+    1. What behaviours does the project seek to encourage or discourage? 
     1. How are such behaviours incentivized, implicitly or explicitly? (E.g., financial benefits, belief in shared values, costs of network failure, or costs of exiting the network)
     1. When and how do participants have ‘skin in the game’ (exposure)? (E.g. financial, reputation, legal, etc)
-    1. In the case that the network is already launched, how well are the incentives functioning in practice? What unintended consequences are visible or anticipated, if any? Were revisions to the incentive schemes made, or are they planned?
+    1. In the case that the network is already launched, how well are the incentives or other governance mechanisms functioning in practice? What unintended consequences are visible or anticipated, if any? Were revisions to the incentive schemes made, or are they planned?
     1. Is there a fund or system for paying for infrastructure, protocol upgrades, development work, network enhancements and/or other work deemed to be in the interest of the network? 
         1. If no: what are the incentives for upgrades and enhancements?
         1. If yes: what is funded by whom? Who performs the work? Who judges the work? What recourse is there if work is below quality? 
@@ -52,8 +53,9 @@
         1. Which stakeholder groups have which types of executive power? 
         1. How does a stakeholder group attain or lose this power?  
     1. Who has interpretive (“judicial”) power to decide how to apply an agreed policy to a specific instance?
+        1. What can the interpretive power be used to mandate?
         1. Which stakeholder groups have which types of interpretive power?
-        1. How does a stakeholder group attain or lose this power?  
+        1. How does a stakeholder group attain or lose this power?
     1. Does this network facilitate transparency with regard to the use of governance powers? (i.e., are there "information clearing mechanisms” for instances of abuse or effective use)
         1. How do these mechanisms operate? 
         1. Are there different degrees of transparency for different stakeholder groups? 
@@ -71,7 +73,7 @@
 For each: 
         1. Are there aspects that can be changed by ordinary processes, for example: via majority votes, Bitcoin soft forks (“statutory rules and norms")? If so, what are they?
         1. Are there aspects that can be changed by extraordinary processes, for example: via supermajority votes, non-contentious Bitcoin hard forks ("constitutional rules and norms")? If so, what are they?
-        1. Are there intrinsic aspects that should never be changed, for example: only via revolution/coup/contentious Bitcoin hard fork ("core rules and norms”)? If so, what are they? 
+        1. Are there intrinsic aspects that should never be changed, for example: only via revolution/coup/contentious Bitcoin hard fork ("core rules and norms”)? If so, what are they, and how is that ensured? 
     1. Are there governance mechanisms, in either intention or effect, that make changing the network easier, or harder? As non-exhaustive examples:
         1. How are potential future changes communicated to participants in the network? 
         1. Are there mandatory waiting or execution periods (for comment period, delay prior to voting or execution, time limit to vote or execute a proposed change, opportunity to exit the network, etc.)?
